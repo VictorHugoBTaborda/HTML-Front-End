@@ -1,19 +1,20 @@
 body {
-body {
+   
+}
 
+#banner {
+    width:100%;
 }
 
 .principal{
     background: #CCCCCC;
     padding: 30px;
 }
+.titulo-principal {
+    padding-left: 20px;
 }
 
-#banner {
-    width: 100%;
-}
-
-h1 {
+.titulo-centralizado {
     text-align: center
 }
 
@@ -29,10 +30,8 @@ em strong {
     color: #FF0000;
 }
 
-
-
 .itens {
-    font-style: italic;
+    font-style: italic
 }
 
 .beneficios {
@@ -40,10 +39,9 @@ em strong {
     padding: 20px;
 }
 
-h2 {
+.titulo-centralizado {
     text-align: center;
 }
-
 ul {
     display: inline-block;
     vertical-align: top;
@@ -53,8 +51,4 @@ ul {
 
 .imagembeneficios {
     width: 50%;
-}
-
-.titulo-centralizado {
-    text-align: center
 }
